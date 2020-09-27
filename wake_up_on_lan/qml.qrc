@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>veiw/FormDK.qml</file>
+        <file>veiw/FormDKForm.ui.qml</file>
+        <file>veiw/FormList.qml</file>
+        <file>veiw/FormListForm.ui.qml</file>
+        <file>veiw/Turn_on_now.qml</file>
+        <file>veiw/Turn_on_nowForm.ui.qml</file>
+    </qresource>
+</RCC>
